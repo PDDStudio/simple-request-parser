@@ -1,6 +1,10 @@
 #simple-request-parser
 Simple CLI tool to parse icon requests made from the iconmanager-client android library.
 
+***Pre-compiled binary can be found [here](https://github.com/PDDStudio/simple-request-parser/blob/master/simple-request-parser-1.0.jar)***
+
+##
+
 **Note: This is just a temporary repository to provide this tool for the Pinbadge-Team, this repository will be merged with the iconmanager once it's done.**
 
 ##Dependencies
